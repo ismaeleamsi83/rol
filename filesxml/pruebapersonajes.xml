@@ -1,0 +1,20 @@
+<juego>
+    <personaje id="1" nombre="Glotoress">
+        <energia>45</energia>
+        <vida>89</vida>
+        <fuerza>37</fuerza>
+        <defensa>28</defensa>
+    </personaje>
+    <personaje id="2" nombre="Flatoron">
+        <energia>55</energia>
+        <vida>79</vida>
+        <fuerza>48</fuerza>
+        <defensa>39</defensa>
+    </personaje>
+    <personaje id="3" nombre="Kalters">
+        <energia>38</energia>
+        <vida>57</vida>
+        <fuerza>66</fuerza>
+        <defensa>52</defensa>
+    </personaje>
+</juego>

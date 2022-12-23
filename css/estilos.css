@@ -1,0 +1,44 @@
+*{
+    color: white;
+}
+
+
+td {
+    border: 1px solid white;
+}
+
+.sinbordes {
+    border: none;
+}
+
+#fondo-principal{
+    background-image: url("../images/fondo-principal.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+}
+
+table {
+    margin: 30px 0;
+}
+
+.personaje{
+    color: blue;
+}
+
+.puntos{
+    width: 50px;
+    color: blue;
+}
+
+#imagen-energia{
+    width: 30px;
+}
+
+
+.botones {
+    padding: 5px 20px;
+    color: black;
+}
